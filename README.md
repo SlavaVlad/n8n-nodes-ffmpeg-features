@@ -1,4 +1,6 @@
-# n8n-nodes-ffmpeg
+# n8n-nodes-ffmpeg-features
+
+**Based on [shmeller86/n8n-nodes-ffmpeg](https://github.com/shmeller86/n8n-nodes-ffmpeg)**
 
 **Based on [shmeller86/n8n-nodes-ffmpeg](https://github.com/shmeller86/n8n-nodes-ffmpeg)**
 
