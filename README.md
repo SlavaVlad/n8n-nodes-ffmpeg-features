@@ -2,8 +2,6 @@
 
 **Based on [shmeller86/n8n-nodes-ffmpeg](https://github.com/shmeller86/n8n-nodes-ffmpeg)**
 
-**Based on [shmeller86/n8n-nodes-ffmpeg](https://github.com/shmeller86/n8n-nodes-ffmpeg)**
-
 This package contains an n8n node that allows you to work with FFmpeg for video and audio file processing.
 
 ## Installation
