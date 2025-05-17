@@ -1,20 +1,20 @@
 {
-  "name": "n8n-nodes-ffmpeg",
-  "version": "0.1.4",
-  "description": "Merge videos using FFMPEG",
+  "name": "n8n-nodes-ffmpeg-features",
+  "version": "0.1.5",
+  "description": "Wrapper for various operations with FFMPEG",
   "keywords": [
-    "n8n-community-node-package"
+    "n8n-community-node-package", "ffmpeg", "n8n", "n8n-nodes", "ffmpeg-node", "ffmpeg-features"
   ],
   "license": "MIT",
   "homepage": "https://github.com/shmeller86/n8n-nodes-ffmpeg",
   "author": {
-    "name": "Igor Che",
-    "email": "shmeller86@gmail.com"
+    "name": "Vladislav Vladimirov",
+    "email": "nauka.2.0.vs@gmail.com"
   },
 
   "repository": {
     "type": "git",
-    "url": "https://github.com/shmeller86/n8n-nodes-ffmpeg.git"
+    "url": "https://github.com/SlavaVlad/n8n-nodes-ffmpeg-features"
   },
   "main": "index.js",
 
